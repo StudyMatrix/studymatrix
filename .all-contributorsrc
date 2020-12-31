@@ -16,6 +16,16 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "SandipM9903",
+      "name": "Sandip Mondal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/72807288?v=4",
+      "profile": "https://github.com/SandipM9903",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,

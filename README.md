@@ -8,7 +8,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) 
 
 # study-portal
-StudyMatrix™ May 2019 – Present  StudyMatrix™ is the trusted platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
+StudyMatrix™ May 2019 – Present  StudyMatrix™ is the trusted website or platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
 
 This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.
 
@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://tamojit.wixsite.com/mymusicmrtamojit"><img src="https://avatars0.githubusercontent.com/u/22822936?v=4" width="100px;" alt=""/><br /><sub><b>Rattle Coder</b></sub></a><br /><a href="https://github.com/StudyMatrix/studymatrix/commits?author=rattlecoder123" title="Code">💻</a> <a href="#design-rattlecoder123" title="Design">🎨</a></td>
+
   </tr>
 </table>
 

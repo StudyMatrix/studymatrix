@@ -1,6 +1,6 @@
 # StudyMatrix <img alt="firebase" width="26px" src="https://user-images.githubusercontent.com/40804626/101893201-7490a080-3bca-11eb-8ef7-844284a69801.png" />
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7d6a434-0c42-49bf-820c-89d3ee2f09ac/deploy-status)](https://app.netlify.com/sites/studymatrix/deploys) [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta) 
 
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://tamojitdas.netlify.app"><img src="https://avatars0.githubusercontent.com/u/40804626?v=4" width="100px;" alt=""/><br /><sub><b>Tamojit Das</b></sub></a><br /><a href="https://github.com/StudyMatrix/studymatrix/commits?author=tamojit-123" title="Code">💻</a> <a href="#design-tamojit-123" title="Design">🎨</a> <a href="#maintenance-tamojit-123" title="Maintenance">🚧</a> <a href="#ideas-tamojit-123" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/SandipM9903"><img src="https://avatars2.githubusercontent.com/u/72807288?v=4" width="100px;" alt=""/><br /><sub><b>Sandip Mondal</b></sub></a><br /><a href="https://github.com/StudyMatrix/studymatrix/commits?author=SandipM9903" title="Code">💻</a> <a href="#design-SandipM9903" title="Design">🎨</a></td>
   </tr>
 </table>
 

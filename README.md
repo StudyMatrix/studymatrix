@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SandipM9903"><img src="https://avatars2.githubusercontent.com/u/72807288?v=4" width="100px;" alt=""/><br /><sub><b>Sandip Mondal</b></sub></a><br /><a href="https://github.com/StudyMatrix/studymatrix/commits?author=SandipM9903" title="Code">💻</a> <a href="#design-SandipM9903" title="Design">🎨</a></td>
+
   </tr>
 </table>
 

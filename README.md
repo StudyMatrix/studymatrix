@@ -56,7 +56,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://tamojitdas.netlify.app"><img src="https://avatars0.githubusercontent.com/u/40804626?v=4" width="100px;" alt=""/><br /><sub><b>Tamojit Das</b></sub></a><br /><a href="https://github.com/StudyMatrix/studymatrix/commits?author=tamojit-123" title="Code">💻</a> <a href="#design-tamojit-123" title="Design">🎨</a> <a href="https://github.com/StudyMatrix/studymatrix/commits?author=tamojit-123" title="Documentation">📖</a> <a href="#maintenance-tamojit-123" title="Maintenance">🚧</a> <a href="#content-tamojit-123" title="Content">🖋</a></td>
+
   </tr>
 </table>
 

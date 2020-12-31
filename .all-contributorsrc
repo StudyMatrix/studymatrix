@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tamojit-123",
+      "name": "Tamojit Das",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/40804626?v=4",
+      "profile": "https://tamojitdas.netlify.app",
+      "contributions": [
+        "code",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "studymatrix",
+  "projectOwner": "StudyMatrix",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

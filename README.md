@@ -7,7 +7,7 @@
 # study-portal-template
 StudyMatrix™ May 2019 – Present  StudyMatrix™ is the trusted website or platform for education, learning, access books, videos, and questions. This webpage is made by StudyMatrix™'s Team, StudyMatrix™ is home to students and learners. StudyMatrix™ provides traditional education, removing the barriers of cost, location, and access. Fulfilling the demands for students to learn on their own terms.
 
-This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.
+This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs and many more.
 
 ### Languages and Tools used:
 
